@@ -8,6 +8,5 @@ python-dotenv
 SpeechRecognition
 gTTS
 requests
-cv2
 opencv-python
 streamlit
