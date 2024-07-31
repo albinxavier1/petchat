@@ -1,4 +1,4 @@
-pyaudio
+PyAudio‑0.2.11
 groq
 duckduckgo-search
 moviepy
