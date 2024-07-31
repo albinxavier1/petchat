@@ -1,3 +1,4 @@
+setuptools
 PyAudio
 groq
 duckduckgo-search
