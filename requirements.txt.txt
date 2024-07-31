@@ -1,0 +1,9 @@
+numpy
+Pillow
+moviepy
+phidata
+python-dotenv
+SpeechRecognition
+gTTS
+requests
+opencv-python
