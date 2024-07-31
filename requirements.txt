@@ -1,4 +1,4 @@
-pyaudio
+PyAudio
 groq
 duckduckgo-search
 moviepy
