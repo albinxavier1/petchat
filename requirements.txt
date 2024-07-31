@@ -1,3 +1,4 @@
+duckduckgo-search
 moviepy
 numpy
 Pillow
