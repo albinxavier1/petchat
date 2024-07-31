@@ -1,6 +1,6 @@
+moviepy
 numpy
 Pillow
-moviepy
 phidata
 python-dotenv
 SpeechRecognition
